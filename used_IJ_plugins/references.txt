@@ -1,1 +1,12 @@
+#ThunderStorm
+#Paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC4207427/
+#Code: https://github.com/zitmen/thunderstorm
+
+#JaCoP
+#Paper: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2818.2006.01706.x
+#Plugin: https://imagej.net/plugins/jacop 
+#Plugin: https://imagej.net/ij/plugins/track/jacop2.html
+
+#Coloc Finder
+#Plugin: https://imagej.net/ij/plugins/colocalization-finder.html
 
